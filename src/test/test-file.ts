@@ -38,7 +38,7 @@ function runTests(): void {
 	assertEqual(multiply(-2, -3), 6, 'multiplies two negatives');
 	console.log(`\nResults: ${passed} passed, ${failed} failed`);
 
-	//new changes in feature1
+	//new changes in feature1_subranch
 	*/
 }
 
